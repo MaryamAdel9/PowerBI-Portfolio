@@ -8,8 +8,8 @@
 Welcome to my repository! Here, I will be adding Power BI projects I implement to continuously enhance my skills in business intelligence, data visualization and analytics.
 
 ## 💬 Connect with Me
-LinkedIn: linkedin.com/in/maryamadel99  
-Gmail: maryamadela9@gmail.com
+LinkedIn: [linkedin.com/in/maryamadel99](https://www.linkedin.com/in/maryamadel99)  
+Gmail: [maryamadela9@gmail.com](mailto:maryamadela9@gmail.com)
 
 
 ## 📊 Projects
