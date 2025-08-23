@@ -19,7 +19,7 @@ This project transforms sales data from a flat file into a structured Star Schem
 
 I developed several DAX measures to highlight key insights such as order trends and regional performance. I also used Figma to design a custom background, giving the dashboard a clean and polished look.
 
-Excited to keep growing my skills in data modeling, visualization.
+Excited to keep growing my skills in data modeling and visualization.
 
 <img width="891" height="488" alt="sales Dashboard" src="https://github.com/user-attachments/assets/465f21f4-535a-409a-9194-9dc68283ffcc" />
 
