@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-336791?style=for-the-badge&logo=database&logoColor=white)
 
 
-Welcome to my repository! This is a portfolio of projects where I’m saving every step of my journey to reach my passion. Here you’ll find my experiments with data, crafting user-friendly visuals, and building dashboards. Along the way, I’m sharpening my skills in analytics, visualization, and data storytelling.
+Welcome to my repository! This repository contains my Power BI projects focused on exploring datasets, validating data quality, and building interactive dashboards to derive insights. It reflects my hands-on experience working with data from ingestion to visualization, and my continuous learning in data analysis and data engineering concepts.
 
 ## 💬 Connect with Me
 LinkedIn: [linkedin.com/in/maryamadel99](https://www.linkedin.com/in/maryamadel99)  
